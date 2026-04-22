@@ -18,7 +18,7 @@ public class Calculator1 {
         Calculator1 TS = new Calculator1();
         System.out.println("Tổng 2 so : " + (TS.tong2So(3,5) + 1));
         System.out.println("Tích 2 so : " + TS.tich2So(2.4,2.0));
-        System.out.println("xin chào");
+        System.out.println("xin chào 123");
 
     }
 }
