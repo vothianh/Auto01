@@ -25,3 +25,5 @@ replay_pid*
 .idea/
 out.production.Auto01/
 Auto01.iml
+.out/.DS_Store
+.out/
