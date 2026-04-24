@@ -24,6 +24,8 @@ hs_err_pid*
 replay_pid*
 .idea/
 out.production.Auto01/
+out.production.Auto01.idea/
+
 Auto01.iml
 .out/.DS_Store
 .out/
